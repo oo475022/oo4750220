@@ -1,6 +1,6 @@
 {
   "name": "oo4750220",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oo475022/oo4750220"
+    "url": "https://github.com/oo475022/oo4750220.git"
   },
   "keywords": [],
   "author": "",
